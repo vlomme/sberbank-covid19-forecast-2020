@@ -9,3 +9,4 @@
 - Adaboost Regressor
 - Случайный лес
 - Xgboost
+![Франция](https://github.com/vlomme/sberbank-covid19-forecast-2020/blob/master/FR.png)
