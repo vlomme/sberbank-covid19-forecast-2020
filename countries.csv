@@ -1,0 +1,170 @@
+iso_alpha2,iso_alpha3,iso_numeric,name,official_name,ccse_name,density,fertility_rate,land_area,median_age,migrants,population,urban_pop_rate,world_share
+AF,AFG,004,Afghanistan,Islamic Republic of Afghanistan,Afghanistan,60,4.6,652860,18.0,-62920.0,38928346,0.25,0.005
+AL,ALB,008,Albania,Republic of Albania,Albania,105,1.6,27400,36.0,-14000.0,2877797,0.63,0.0004
+DZ,DZA,012,Algeria,People's Democratic Republic of Algeria,Algeria,18,3.1,2381740,29.0,-10000.0,43851044,0.73,0.005600000000000001
+AD,AND,020,Andorra,Principality of Andorra,Andorra,164,,470,,,77265,0.88,0.0
+AO,AGO,024,Angola,Republic of Angola,Angola,26,5.6,1246700,17.0,6413.0,32866272,0.67,0.0042
+AG,ATG,028,Antigua and Barbuda,Antigua and Barbuda,Antigua and Barbuda,223,2.0,440,34.0,0.0,97929,0.26,0.0
+AZ,AZE,031,Azerbaijan,Republic of Azerbaijan,Azerbaijan,123,2.1,82658,32.0,1200.0,10139177,0.56,0.0013
+AR,ARG,032,Argentina,Argentine Republic,Argentina,17,2.3,2736690,32.0,4800.0,45195774,0.93,0.0058
+AU,AUS,036,Australia,Australia,Australia,3,1.8,7682300,38.0,158246.0,25499884,0.86,0.0033
+AT,AUT,040,Austria,Republic of Austria,Austria,109,1.5,82409,43.0,65000.0,9006398,0.57,0.0012
+BS,BHS,044,Bahamas,Commonwealth of the Bahamas,Bahamas,39,1.8,10010,32.0,1000.0,393244,0.86,0.0001
+BH,BHR,048,Bahrain,Kingdom of Bahrain,Bahrain,2239,2.0,760,32.0,47800.0,1701575,0.89,0.0002
+BD,BGD,050,Bangladesh,People's Republic of Bangladesh,Bangladesh,1265,2.1,130170,28.0,-369501.0,164689383,0.39,0.021099999999999997
+AM,ARM,051,Armenia,Republic of Armenia,Armenia,104,1.8,28470,35.0,-4998.0,2963243,0.63,0.0004
+BB,BRB,052,Barbados,Barbados,Barbados,668,1.6,430,40.0,-79.0,287375,0.31,0.0
+BE,BEL,056,Belgium,Kingdom of Belgium,Belgium,383,1.7,30280,42.0,48000.0,11589623,0.98,0.0015
+BT,BTN,064,Bhutan,Kingdom of Bhutan,Bhutan,20,2.0,38117,28.0,320.0,771608,0.46,0.0001
+BO,BOL,068,"Bolivia, Plurinational State of",Plurinational State of Bolivia,Bolivia,11,2.8,1083300,26.0,-9504.0,11673021,0.69,0.0015
+BA,BIH,070,Bosnia and Herzegovina,Republic of Bosnia and Herzegovina,Bosnia and Herzegovina,64,1.3,51000,43.0,-21585.0,3280819,0.52,0.0004
+BR,BRA,076,Brazil,Federative Republic of Brazil,Brazil,25,1.7,8358140,33.0,21200.0,212559417,0.88,0.0273
+BZ,BLZ,084,Belize,Belize,Belize,17,2.3,22810,25.0,1200.0,397628,0.46,0.0001
+BN,BRN,096,Brunei Darussalam,Brunei Darussalam,Brunei,83,1.8,5270,32.0,0.0,437479,0.8,0.0001
+BG,BGR,100,Bulgaria,Republic of Bulgaria,Bulgaria,64,1.6,108560,45.0,-4800.0,6948445,0.76,0.0009
+BY,BLR,112,Belarus,Republic of Belarus,Belarus,47,1.7,202910,40.0,8730.0,9449323,0.79,0.0012
+KH,KHM,116,Cambodia,Kingdom of Cambodia,Cambodia,95,2.5,176520,26.0,-30000.0,16718965,0.24,0.0021
+CM,CMR,120,Cameroon,Republic of Cameroon,Cameroon,56,4.6,472710,19.0,-4800.0,26545863,0.56,0.0034000000000000002
+CA,CAN,124,Canada,Canada,Canada,4,1.5,9093510,41.0,242032.0,37742154,0.81,0.0048
+CV,CPV,132,Cabo Verde,Republic of Cabo Verde,Cabo Verde,138,2.3,4030,28.0,-1342.0,555987,0.68,0.0001
+CF,CAF,140,Central African Republic,Central African Republic,Central African Republic,8,4.8,622980,18.0,-40000.0,4829767,0.43,0.0006
+LK,LKA,144,Sri Lanka,Democratic Socialist Republic of Sri Lanka,Sri Lanka,341,2.2,62710,34.0,-97986.0,21413249,0.18,0.0027
+TD,TCD,148,Chad,Republic of Chad,Chad,13,5.8,1259200,17.0,2000.0,16425864,0.23,0.0021
+CL,CHL,152,Chile,Republic of Chile,Chile,26,1.7,743532,35.0,111708.0,19116201,0.85,0.0025
+CN,CHN,156,China,People's Republic of China,China,153,1.7,9388211,38.0,-348399.0,1439323776,0.61,0.18469999999999998
+TW,TWN,158,"Taiwan, Province of China","Taiwan, Province of China",Taiwan*,673,1.2,35410,42.0,30001.0,23816775,0.79,0.0031
+CO,COL,170,Colombia,Republic of Colombia,Colombia,46,1.8,1109500,31.0,204796.0,50882891,0.8,0.006500000000000001
+CG,COG,178,Congo,Republic of the Congo,Congo (Brazzaville),16,4.5,341500,19.0,-4000.0,5518087,0.7,0.0007000000000000001
+CD,COD,180,"Congo, The Democratic Republic of the","Congo, The Democratic Republic of the",Congo (Kinshasa),40,6.0,2267050,17.0,23861.0,89561403,0.46,0.0115
+CR,CRI,188,Costa Rica,Republic of Costa Rica,Costa Rica,100,1.8,51060,33.0,4200.0,5094118,0.8,0.0007000000000000001
+HR,HRV,191,Croatia,Republic of Croatia,Croatia,73,1.4,55960,44.0,-8001.0,4105267,0.58,0.0005
+CU,CUB,192,Cuba,Republic of Cuba,Cuba,106,1.6,106440,42.0,-14400.0,11326616,0.78,0.0015
+CY,CYP,196,Cyprus,Republic of Cyprus,Cyprus,131,1.3,9240,37.0,5000.0,1207359,0.67,0.0002
+CZ,CZE,203,Czechia,Czech Republic,Czechia,139,1.6,77240,43.0,22011.0,10708981,0.74,0.0014000000000000002
+BJ,BEN,204,Benin,Republic of Benin,Benin,108,4.9,112760,19.0,-2000.0,12123200,0.48,0.0016
+DK,DNK,208,Denmark,Kingdom of Denmark,Denmark,137,1.8,42430,42.0,15200.0,5792202,0.88,0.0007000000000000001
+DM,DMA,212,Dominica,Commonwealth of Dominica,Dominica,96,,750,,,71986,0.74,0.0
+DO,DOM,214,Dominican Republic,Dominican Republic,Dominican Republic,225,2.4,48320,28.0,-30000.0,10847910,0.85,0.0014000000000000002
+EC,ECU,218,Ecuador,Republic of Ecuador,Ecuador,71,2.4,248360,28.0,36400.0,17643054,0.63,0.0023
+SV,SLV,222,El Salvador,Republic of El Salvador,El Salvador,313,2.1,20720,28.0,-40539.0,6486205,0.73,0.0008
+GQ,GNQ,226,Equatorial Guinea,Republic of Equatorial Guinea,Equatorial Guinea,50,4.6,28050,22.0,16000.0,1402985,0.73,0.0002
+ET,ETH,231,Ethiopia,Federal Democratic Republic of Ethiopia,Ethiopia,115,4.3,1000000,19.0,30000.0,114963588,0.21,0.0147
+ER,ERI,232,Eritrea,the State of Eritrea,Eritrea,35,4.1,101000,19.0,-39858.0,3546421,0.63,0.0005
+EE,EST,233,Estonia,Republic of Estonia,Estonia,31,1.6,42390,42.0,3911.0,1326535,0.68,0.0002
+FJ,FJI,242,Fiji,Republic of Fiji,Fiji,49,2.8,18270,28.0,-6202.0,896445,0.59,0.0001
+FI,FIN,246,Finland,Republic of Finland,Finland,18,1.5,303890,43.0,14000.0,5540720,0.86,0.0007000000000000001
+FR,FRA,250,France,French Republic,France,119,1.9,547557,42.0,36527.0,65273511,0.82,0.0084
+DJ,DJI,262,Djibouti,Republic of Djibouti,Djibouti,43,2.8,23180,27.0,900.0,988000,0.79,0.0001
+GA,GAB,266,Gabon,Gabonese Republic,Gabon,9,4.0,257670,23.0,3260.0,2225734,0.87,0.0003
+GE,GEO,268,Georgia,Georgia,Georgia,57,2.1,69490,38.0,-10000.0,3989167,0.58,0.0005
+GM,GMB,270,Gambia,Republic of the Gambia,Gambia,239,5.3,10120,18.0,-3087.0,2416668,0.59,0.0003
+DE,DEU,276,Germany,Federal Republic of Germany,Germany,240,1.6,348560,46.0,543822.0,83783942,0.76,0.010700000000000001
+GH,GHA,288,Ghana,Republic of Ghana,Ghana,137,3.9,227540,22.0,-10000.0,31072940,0.57,0.004
+GR,GRC,300,Greece,Hellenic Republic,Greece,81,1.3,128900,46.0,-16000.0,10423054,0.85,0.0013
+GD,GRD,308,Grenada,Grenada,Grenada,331,2.1,340,32.0,-200.0,112523,0.35,0.0
+GT,GTM,320,Guatemala,Republic of Guatemala,Guatemala,167,2.9,107160,23.0,-9215.0,17915568,0.52,0.0023
+GN,GIN,324,Guinea,Republic of Guinea,Guinea,53,4.7,245720,18.0,-4000.0,13132795,0.39,0.0017000000000000001
+GY,GUY,328,Guyana,Republic of Guyana,Guyana,4,2.5,196850,27.0,-6000.0,786552,0.27,0.0001
+HT,HTI,332,Haiti,Republic of Haiti,Haiti,414,3.0,27560,24.0,-35000.0,11402528,0.57,0.0015
+VA,VAT,336,Holy See (Vatican City State),Holy See (Vatican City State),Holy See,2003,,0,,,801,,0.0
+HN,HND,340,Honduras,Republic of Honduras,Honduras,89,2.5,111890,24.0,-6800.0,9904607,0.57,0.0013
+HU,HUN,348,Hungary,Hungary,Hungary,107,1.5,90530,43.0,6000.0,9660351,0.72,0.0012
+IS,ISL,352,Iceland,Republic of Iceland,Iceland,3,1.8,100250,37.0,380.0,341243,0.94,0.0
+IN,IND,356,India,Republic of India,India,464,2.2,2973190,28.0,-532687.0,1380004385,0.35,0.177
+ID,IDN,360,Indonesia,Republic of Indonesia,Indonesia,151,2.3,1811570,30.0,-98955.0,273523615,0.56,0.0351
+IR,IRN,364,"Iran, Islamic Republic of",Islamic Republic of Iran,Iran,52,2.2,1628550,32.0,-55000.0,83992949,0.76,0.0108
+IQ,IRQ,368,Iraq,Republic of Iraq,Iraq,93,3.7,434320,21.0,7834.0,40222493,0.73,0.0052
+IE,IRL,372,Ireland,Ireland,Ireland,72,1.8,68890,38.0,23604.0,4937786,0.63,0.0006
+IL,ISR,376,Israel,State of Israel,Israel,400,3.0,21640,30.0,10000.0,8655535,0.93,0.0011
+IT,ITA,380,Italy,Italian Republic,Italy,206,1.3,294140,47.0,148943.0,60461826,0.69,0.0078000000000000005
+CI,CIV,384,Côte d'Ivoire,Republic of Côte d'Ivoire,Cote d'Ivoire,83,4.7,318000,19.0,-8000.0,26378274,0.51,0.0034000000000000002
+JM,JAM,388,Jamaica,Jamaica,Jamaica,273,2.0,10830,31.0,-11332.0,2961167,0.55,0.0004
+JP,JPN,392,Japan,Japan,Japan,347,1.4,364555,48.0,71560.0,126476461,0.92,0.016200000000000003
+KZ,KAZ,398,Kazakhstan,Republic of Kazakhstan,Kazakhstan,7,2.8,2699700,31.0,-18000.0,18776707,0.58,0.0024
+JO,JOR,400,Jordan,Hashemite Kingdom of Jordan,Jordan,115,2.8,88780,24.0,10220.0,10203134,0.91,0.0013
+KE,KEN,404,Kenya,Republic of Kenya,Kenya,94,3.5,569140,20.0,-10000.0,53771296,0.28,0.0069
+KR,KOR,410,"Korea, Republic of","Korea, Republic of","Korea, South",527,1.1,97230,44.0,11731.0,51269185,0.82,0.0066
+KW,KWT,414,Kuwait,State of Kuwait,Kuwait,240,2.1,17820,37.0,39520.0,4270571,,0.0005
+KG,KGZ,417,Kyrgyzstan,Kyrgyz Republic,Kyrgyzstan,34,3.0,191800,26.0,-4000.0,6524195,0.36,0.0008
+LA,LAO,418,Lao People's Democratic Republic,Lao People's Democratic Republic,Laos,32,2.7,230800,24.0,-14704.0,7275560,0.36,0.0009
+LB,LBN,422,Lebanon,Lebanese Republic,Lebanon,667,2.1,10230,30.0,-30012.0,6825445,0.78,0.0009
+LV,LVA,428,Latvia,Republic of Latvia,Latvia,30,1.7,62200,44.0,-14837.0,1886198,0.69,0.0002
+LR,LBR,430,Liberia,Republic of Liberia,Liberia,53,4.4,96320,19.0,-5000.0,5057681,0.53,0.0006
+LY,LBY,434,Libya,Libya,Libya,4,2.3,1759540,29.0,-1999.0,6871292,0.78,0.0009
+LI,LIE,438,Liechtenstein,Principality of Liechtenstein,Liechtenstein,238,,160,,,38128,0.15,0.0
+LT,LTU,440,Lithuania,Republic of Lithuania,Lithuania,43,1.7,62674,45.0,-32780.0,2722289,0.71,0.0003
+LU,LUX,442,Luxembourg,Grand Duchy of Luxembourg,Luxembourg,242,1.5,2590,40.0,9741.0,625978,0.88,0.0001
+MG,MDG,450,Madagascar,Republic of Madagascar,Madagascar,48,4.1,581795,20.0,-1500.0,27691018,0.39,0.0036
+MY,MYS,458,Malaysia,Malaysia,Malaysia,99,2.0,328550,30.0,50000.0,32365999,0.78,0.0042
+MV,MDV,462,Maldives,Republic of Maldives,Maldives,1802,1.9,300,30.0,11370.0,540544,0.35,0.0001
+MT,MLT,470,Malta,Republic of Malta,Malta,1380,1.5,320,43.0,900.0,441543,0.93,0.0001
+MR,MRT,478,Mauritania,Islamic Republic of Mauritania,Mauritania,5,4.6,1030700,20.0,5000.0,4649658,0.57,0.0006
+MU,MUS,480,Mauritius,Republic of Mauritius,Mauritius,626,1.4,2030,37.0,0.0,1271768,0.41,0.0002
+MX,MEX,484,Mexico,United Mexican States,Mexico,66,2.1,1943950,29.0,-60000.0,128932753,0.84,0.0165
+MC,MCO,492,Monaco,Principality of Monaco,Monaco,26337,,1,,,39242,,0.0
+MN,MNG,496,Mongolia,Mongolia,Mongolia,2,2.9,1553560,28.0,-852.0,3278290,0.67,0.0004
+MD,MDA,498,"Moldova, Republic of",Republic of Moldova,Moldova,123,1.3,32850,38.0,-1387.0,4033963,0.43,0.0005
+ME,MNE,499,Montenegro,Montenegro,Montenegro,47,1.8,13450,39.0,-480.0,628066,0.68,0.0001
+MA,MAR,504,Morocco,Kingdom of Morocco,Morocco,83,2.4,446300,30.0,-51419.0,36910560,0.64,0.004699999999999999
+MZ,MOZ,508,Mozambique,Republic of Mozambique,Mozambique,40,4.9,786380,18.0,-5000.0,31255435,0.38,0.004
+OM,OMN,512,Oman,Sultanate of Oman,Oman,16,2.9,309500,31.0,87400.0,5106626,0.87,0.0007000000000000001
+NA,NAM,516,Namibia,Republic of Namibia,Namibia,3,3.4,823290,22.0,-4806.0,2540905,0.55,0.0003
+NP,NPL,524,Nepal,Federal Democratic Republic of Nepal,Nepal,203,1.9,143350,25.0,41710.0,29136808,0.21,0.0037
+NL,NLD,528,Netherlands,Kingdom of the Netherlands,Netherlands,508,1.7,33720,43.0,16000.0,17134872,0.92,0.0022
+NZ,NZL,554,New Zealand,New Zealand,New Zealand,18,1.9,263310,38.0,14881.0,4822233,0.87,0.0006
+NI,NIC,558,Nicaragua,Republic of Nicaragua,Nicaragua,55,2.4,120340,26.0,-21272.0,6624554,0.57,0.0008
+NE,NER,562,Niger,Republic of the Niger,Niger,19,7.0,1266700,15.0,4000.0,24206644,0.17,0.0031
+NG,NGA,566,Nigeria,Federal Republic of Nigeria,Nigeria,226,5.4,910770,18.0,-60000.0,206139589,0.52,0.0264
+NO,NOR,578,Norway,Kingdom of Norway,Norway,15,1.7,365268,40.0,28000.0,5421241,0.83,0.0007000000000000001
+PK,PAK,586,Pakistan,Islamic Republic of Pakistan,Pakistan,287,3.6,770880,23.0,-233379.0,220892340,0.35,0.028300000000000002
+PA,PAN,591,Panama,Republic of Panama,Panama,58,2.5,74340,30.0,11200.0,4314767,0.68,0.0006
+PG,PNG,598,Papua New Guinea,Independent State of Papua New Guinea,Papua New Guinea,20,3.6,452860,22.0,-800.0,8947024,0.13,0.0011
+PY,PRY,600,Paraguay,Republic of Paraguay,Paraguay,18,2.4,397300,26.0,-16556.0,7132538,0.62,0.0009
+PE,PER,604,Peru,Republic of Peru,Peru,26,2.3,1280000,31.0,99069.0,32971854,0.79,0.0042
+PH,PHL,608,Philippines,Republic of the Philippines,Philippines,368,2.6,298170,26.0,-67152.0,109581078,0.47,0.0141
+PL,POL,616,Poland,Republic of Poland,Poland,124,1.4,306230,42.0,-29395.0,37846611,0.6,0.0049
+PT,PRT,620,Portugal,Portuguese Republic,Portugal,111,1.3,91590,46.0,-6000.0,10196709,0.66,0.0013
+TL,TLS,626,Timor-Leste,Democratic Republic of Timor-Leste,Timor-Leste,89,4.1,14870,21.0,-5385.0,1318445,0.33,0.0002
+QA,QAT,634,Qatar,State of Qatar,Qatar,248,1.9,11610,32.0,40000.0,2881053,0.96,0.0004
+RO,ROU,642,Romania,Romania,Romania,84,1.6,230170,43.0,-73999.0,19237691,0.55,0.0025
+RU,RUS,643,Russian Federation,Russian Federation,Russia,9,1.8,16376870,40.0,182456.0,145934462,0.74,0.0187
+RW,RWA,646,Rwanda,Rwandese Republic,Rwanda,525,4.1,24670,20.0,-9000.0,12952218,0.18,0.0017000000000000001
+LC,LCA,662,Saint Lucia,Saint Lucia,Saint Lucia,301,1.4,610,34.0,0.0,183627,0.19,0.0
+VC,VCT,670,Saint Vincent and the Grenadines,Saint Vincent and the Grenadines,Saint Vincent and the Grenadines,284,1.9,390,33.0,-200.0,110940,0.53,0.0
+SM,SMR,674,San Marino,Republic of San Marino,San Marino,566,,60,,,33931,0.97,0.0
+SA,SAU,682,Saudi Arabia,Kingdom of Saudi Arabia,Saudi Arabia,16,2.3,2149690,32.0,134979.0,34813871,0.84,0.0045000000000000005
+SN,SEN,686,Senegal,Republic of Senegal,Senegal,87,4.7,192530,19.0,-20000.0,16743927,0.49,0.0021
+RS,SRB,688,Serbia,Republic of Serbia,Serbia,100,1.5,87460,42.0,4000.0,8737371,0.56,0.0011
+SC,SYC,690,Seychelles,Republic of Seychelles,Seychelles,214,2.5,460,34.0,-200.0,98347,0.56,0.0
+SG,SGP,702,Singapore,Republic of Singapore,Singapore,8358,1.2,700,42.0,27028.0,5850342,,0.0008
+SK,SVK,703,Slovakia,Slovak Republic,Slovakia,114,1.5,48088,41.0,1485.0,5459642,0.54,0.0007000000000000001
+VN,VNM,704,Viet Nam,Socialist Republic of Viet Nam,Vietnam,314,2.1,310070,32.0,-80000.0,97338579,0.38,0.0125
+SI,SVN,705,Slovenia,Republic of Slovenia,Slovenia,103,1.6,20140,45.0,2000.0,2078938,0.55,0.0003
+SO,SOM,706,Somalia,Federal Republic of Somalia,Somalia,25,6.1,627340,17.0,-40000.0,15893222,0.47,0.002
+ZA,ZAF,710,South Africa,Republic of South Africa,South Africa,49,2.4,1213090,28.0,145405.0,59308690,0.67,0.0076
+ZW,ZWE,716,Zimbabwe,Republic of Zimbabwe,Zimbabwe,38,3.6,386850,19.0,-116858.0,14862924,0.38,0.0019
+ES,ESP,724,Spain,Kingdom of Spain,Spain,94,1.3,498800,45.0,40000.0,46754778,0.8,0.006
+SD,SDN,729,Sudan,Republic of the Sudan,Sudan,25,4.4,1765048,20.0,-50000.0,43849260,0.35,0.005600000000000001
+SR,SUR,740,Suriname,Republic of Suriname,Suriname,4,2.4,156000,29.0,-1000.0,586632,0.65,0.0001
+SZ,SWZ,748,Eswatini,Kingdom of Eswatini,Eswatini,67,3.0,17200,21.0,-8353.0,1160164,0.3,0.0001
+SE,SWE,752,Sweden,Kingdom of Sweden,Sweden,25,1.9,410340,41.0,40000.0,10099265,0.88,0.0013
+CH,CHE,756,Switzerland,Swiss Confederation,Switzerland,219,1.5,39516,43.0,52000.0,8654622,0.74,0.0011
+SY,SYR,760,Syrian Arab Republic,Syrian Arab Republic,Syria,95,2.8,183630,26.0,-427391.0,17500658,0.6,0.0022
+TH,THA,764,Thailand,Kingdom of Thailand,Thailand,137,1.5,510890,40.0,19444.0,69799978,0.51,0.009000000000000001
+TG,TGO,768,Togo,Togolese Republic,Togo,152,4.4,54390,19.0,-2000.0,8278724,0.43,0.0011
+TT,TTO,780,Trinidad and Tobago,Republic of Trinidad and Tobago,Trinidad and Tobago,273,1.7,5130,36.0,-800.0,1399488,0.52,0.0002
+AE,ARE,784,United Arab Emirates,United Arab Emirates,United Arab Emirates,118,1.4,83600,33.0,40000.0,9890402,0.86,0.0013
+TN,TUN,788,Tunisia,Republic of Tunisia,Tunisia,76,2.2,155360,33.0,-4000.0,11818619,0.7,0.0015
+TR,TUR,792,Turkey,Republic of Turkey,Turkey,110,2.1,769630,32.0,283922.0,84339067,0.76,0.0108
+UG,UGA,800,Uganda,Republic of Uganda,Uganda,229,5.0,199810,17.0,168694.0,45741007,0.26,0.0059
+UA,UKR,804,Ukraine,Ukraine,Ukraine,75,1.4,579320,41.0,10000.0,43733762,0.69,0.005600000000000001
+MK,MKD,807,North Macedonia,Republic of North Macedonia,North Macedonia,83,1.5,25220,39.0,-1000.0,2083374,0.59,0.0003
+EG,EGY,818,Egypt,Arab Republic of Egypt,Egypt,103,3.3,995450,25.0,-38033.0,102334404,0.43,0.0131
+GB,GBR,826,United Kingdom,United Kingdom of Great Britain and Northern Ireland,United Kingdom,281,1.8,241930,40.0,260650.0,67886011,0.83,0.0087
+TZ,TZA,834,"Tanzania, United Republic of",United Republic of Tanzania,Tanzania,67,4.9,885800,18.0,-40076.0,59734218,0.37,0.0077
+US,USA,840,United States,United States of America,US,36,1.8,9147420,38.0,954806.0,331002651,0.83,0.0425
+BF,BFA,854,Burkina Faso,Burkina Faso,Burkina Faso,76,5.2,273600,18.0,-25000.0,20903273,0.31,0.0027
+UY,URY,858,Uruguay,Eastern Republic of Uruguay,Uruguay,20,2.0,175020,36.0,-3000.0,3473730,0.96,0.0004
+UZ,UZB,860,Uzbekistan,Republic of Uzbekistan,Uzbekistan,79,2.4,425400,28.0,-8863.0,33469203,0.5,0.0043
+VE,VEN,862,"Venezuela, Bolivarian Republic of",Bolivarian Republic of Venezuela,Venezuela,32,2.3,882050,30.0,-653249.0,28435940,,0.0036
+ZM,ZMB,894,Zambia,Republic of Zambia,Zambia,25,4.7,743390,18.0,-8000.0,18383955,0.45,0.0024
