@@ -1,5 +1,6 @@
 # sberbank-covid19-forecast-2020
 Моё решение соревнования прогнозирования covid19 https://ods.ai/competitions/sberbank-covid19-forecast
+
 Данные https://github.com/CSSEGISandData/COVID-19
 ## covid_simple.ipynb
 - Обработка данных
