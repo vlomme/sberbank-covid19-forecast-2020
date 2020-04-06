@@ -16,6 +16,7 @@
 - Сравнение моделей
 - Графики
 - Добавление своей модели
+- Создание submission
 
 ![Графики](https://github.com/vlomme/sberbank-covid19-forecast-2020/blob/master/image.png)
 ![Графики](https://github.com/vlomme/sberbank-covid19-forecast-2020/blob/master/image2.png)
