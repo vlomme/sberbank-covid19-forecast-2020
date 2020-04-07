@@ -1,7 +1,11 @@
 # sberbank-covid19-forecast-2020
 Моё решение соревнования прогнозирования covid19 https://ods.ai/competitions/sberbank-covid19-forecast
 
-Данные https://github.com/CSSEGISandData/COVID-19
+## Данные:
+COVID-19 https://github.com/CSSEGISandData/COVID-19
+health-systems https://www.kaggle.com/danevans/world-bank-wdi-212-health-systems
+
+
 ## covid_simple.ipynb
 - Обработка данных
 - Добавление новых фич
