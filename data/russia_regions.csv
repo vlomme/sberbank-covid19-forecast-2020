@@ -1,0 +1,86 @@
+iso_code,name,type,name_with_type,csse_province_state,federal_district,timezone,geoname_code,geoname_id,geoname_name,population,population_urban,population_rural
+RU-ALT,Алтайский,край,Алтайский край,Altayskiy kray,Сибирский,UTC+7,RU.04,1511732,Altai Krai,2317052,1320066,996986
+RU-AMU,Амурская,обл,Амурская обл,Amursk oblast,Дальневосточный,UTC+9,RU.05,2027748,Amur Oblast,790676,535760,254916
+RU-ARK,Архангельская,обл,Архангельская обл,Arkhangelsk oblast,Северо-Западный,UTC+3,RU.06,581043,Arkhangelskaya,1136387,893305,243082
+RU-AST,Астраханская,обл,Астраханская обл,Astrahan oblast,Южный,UTC+4,RU.07,580491,Astrakhan,1005967,671311,334656
+RU-BEL,Белгородская,обл,Белгородская обл,Belgorod oblast,Центральный,UTC+3,RU.09,578071,Belgorod Oblast,1547532,1044622,502910
+RU-BRY,Брянская,обл,Брянская обл,Briansk oblast,Центральный,UTC+3,RU.10,571473,Bryansk Oblast,1192570,839959,352611
+RU-VLA,Владимирская,обл,Владимирская обл,Vladimir oblast,Центральный,UTC+3,RU.83,826294,Vladimir,1358538,1063144,295394
+RU-VGG,Волгоградская,обл,Волгоградская обл,Volgograd oblast,Южный,UTC+4,RU.84,472755,Volgograd Oblast,2491751,1925884,565867
+RU-VLG,Вологодская,обл,Вологодская обл,Vologda oblast,Северо-Западный,UTC+3,RU.85,472454,Vologda,1160721,843528,317193
+RU-VOR,Воронежская,обл,Воронежская обл,Voronezh oblast,Центральный,UTC+3,RU.86,472039,Voronezj,2323657,1578552,745105
+RU-MOW,Москва,г,г Москва,Moscow,Центральный,UTC+3,RU.48,524894,Moscow,12692466,12479250,213216
+RU-SPE,Санкт-Петербург,г,г Санкт-Петербург,Saint Petersburg,Северо-Западный,UTC+3,RU.66,536203,St.-Petersburg,5392992,5392992,0
+UA-40,Севастополь,г,г Севастополь,Sevastopol,Южный,UTC+3,UA.20,694422,Sevastopol City,448829,418486,30343
+RU-YEV,Еврейская,Аобл,Еврейская Аобл,Jewish Autonomous oblast,Дальневосточный,UTC+10,RU.89,2026639,Jewish Autonomous Oblast,158381,108743,49638
+RU-ZAB,Забайкальский,край,Забайкальский край,Zabaykalskiy kray,Дальневосточный,UTC+9,RU.93,7779061,Transbaikal Territory,1059657,722656,337001
+RU-IVA,Ивановская,обл,Ивановская обл,Ivanovo oblast,Центральный,UTC+3,RU.21,555235,Ivanovo,997196,814762,182434
+RU-IRK,Иркутская,обл,Иркутская обл,Irkutsk oblast,Сибирский,UTC+8,RU.20,2023468,Irkutsk Oblast,2390827,1866866,523961
+RU-KGD,Калининградская,обл,Калининградская обл,Kaliningrad oblast,Северо-Западный,UTC+2,RU.23,554230,Kaliningrad,1012253,786074,226179
+RU-KLU,Калужская,обл,Калужская обл,Kaluga oblast,Центральный,UTC+3,RU.25,553899,Kaluga,1000070,758622,241448
+RU-KAM,Камчатский,край,Камчатский край,Kamchatskiy kray,Дальневосточный,UTC+12,RU.92,2125072,Kamchatka,312438,245128,67310
+RU-KEM,Кемеровская область - Кузбасс,обл,Кемеровская область - Кузбасс,Kemerovo oblast,Сибирский,UTC+7,RU.29,1503900,Kemerovo Oblast,2657758,2287209,370549
+RU-KIR,Кировская,обл,Кировская обл,Kirov oblast,Приволжский,UTC+3,RU.33,548389,Kirov,1262549,982009,280540
+RU-KOS,Костромская,обл,Костромская обл,Kostroma oblast,Центральный,UTC+3,RU.37,543871,Kostroma Oblast,633392,460492,172900
+RU-KDA,Краснодарский,край,Краснодарский край,Krasnodarskiy kray,Южный,UTC+3,RU.38,542415,Krasnodarskiy,5677786,3142394,2535392
+RU-KYA,Красноярский,край,Красноярский край,Krasnoyarskiy kray,Сибирский,UTC+7,RU.91,1502020,Krasnoyarskiy,2867875,2223281,644594
+RU-KGN,Курганская,обл,Курганская обл,Kurgan oblast,Уральский,UTC+5,RU.40,1501312,Kurgan Oblast,826941,514369,312572
+RU-KRS,Курская,обл,Курская обл,Kursk oblast,Центральный,UTC+3,RU.41,538555,Kursk,1103059,755463,347596
+RU-LEN,Ленинградская,обл,Ленинградская обл,Leningradskaya oblast,Северо-Западный,UTC+3,RU.42,536199,Leningradskaya Oblast,1876392,1259045,617347
+RU-LIP,Липецкая,обл,Липецкая обл,Lipetsk oblast,Центральный,UTC+3,RU.43,535120,Lipetsk Oblast,1139492,736624,402868
+RU-MAG,Магаданская,обл,Магаданская обл,Magadan oblast,Дальневосточный,UTC+11,RU.44,2123627,Magadan Oblast,140199,134720,5479
+RU-MOS,Московская,обл,Московская обл,Moscow oblast,Центральный,UTC+3,RU.47,524925,Moscow Oblast,7687647,6255436,1432211
+RU-MUR,Мурманская,обл,Мурманская обл,Murmansk oblast,Северо-Западный,UTC+3,RU.49,524304,Murmansk,741511,683463,58048
+RU-NEN,Ненецкий,АО,Ненецкий АО,,Северо-Западный,UTC+3,RU.50,522652,Nenets,44110,32542,11568
+RU-NIZ,Нижегородская,обл,Нижегородская обл,Nizhegorodskaya oblast,Приволжский,UTC+3,RU.51,559838,Nizhny Novgorod Oblast,3203818,2553182,650636
+RU-NGR,Новгородская,обл,Новгородская обл,Novgorod oblast,Северо-Западный,UTC+3,RU.52,519324,Novgorod Oblast,596173,426224,169949
+RU-NVS,Новосибирская,обл,Новосибирская обл,Novosibirsk oblast,Сибирский,UTC+7,RU.53,1496745,Novosibirsk Oblast,2798251,2216509,581742
+RU-OMS,Омская,обл,Омская обл,Omsk oblast,Сибирский,UTC+6,RU.54,1496152,Omsk,1926562,1405124,521438
+RU-ORE,Оренбургская,обл,Оренбургская обл,Orenburg oblast,Приволжский,UTC+5,RU.55,515001,Orenburg Oblast,1956256,1186257,769999
+RU-ORL,Орловская,обл,Орловская обл,Orel oblast,Центральный,UTC+3,RU.56,514801,Orel Oblast,733682,490115,243567
+RU-PNZ,Пензенская,обл,Пензенская обл,Pensa oblast,Приволжский,UTC+3,RU.57,511555,Penza,1304825,899237,405588
+RU-PER,Пермский,край,Пермский край,Perm oblast,Приволжский,UTC+5,RU.90,511180,Perm,2599301,1973085,626216
+RU-PRI,Приморский,край,Приморский край,Primorskiy kray,Дальневосточный,UTC+10,RU.59,2017623,Primorskiy (Maritime) Kray,1895305,1468917,426388
+RU-PSK,Псковская,обл,Псковская обл,Pskov oblast,Северо-Западный,UTC+3,RU.60,504338,Pskov Oblast,626046,445301,180745
+RU-AD,Адыгея,Респ,Респ Адыгея,Republic of Adygeia,Южный,UTC+3,RU.01,584222,Adygeya Republic,463453,219137,244316
+RU-AL,Алтай,Респ,Респ Алтай,Republic of Altay,Сибирский,UTC+7,RU.03,1506272,Altai,220140,64478,155662
+RU-BA,Башкортостан,Респ,Респ Башкортостан,Republic of Bashkortostan,Приволжский,UTC+5,RU.08,578853,Bashkortostan Republic,4037811,2520970,1516841
+RU-BU,Бурятия,Респ,Респ Бурятия,Republic of Buriatia,Дальневосточный,UTC+8,RU.11,2050915,Buryatiya Republic,986109,584178,401931
+RU-DA,Дагестан,Респ,Респ Дагестан,Republic of Dagestan,Северо-Кавказский,UTC+3,RU.17,567293,Dagestan,3111353,1409380,1701973
+RU-IN,Ингушетия,Респ,Респ Ингушетия,Ingushetia republic,Северо-Кавказский,UTC+3,RU.19,556349,Ingushetiya Republic,506688,281966,224722
+RU-KB,Кабардино-Балкарская,Респ,Респ Кабардино-Балкарская,Republic of Kabardino-Balkaria,Северо-Кавказский,UTC+3,RU.22,554667,Kabardino-Balkariya Republic,868174,451834,416340
+RU-KL,Калмыкия,Респ,Респ Калмыкия,Republic of Kalmykia,Южный,UTC+3,RU.24,553972,Kalmykiya Republic,271035,124393,146642
+RU-KC,Карачаево-Черкесская,Респ,Респ Карачаево-Черкесская,Republic of Karachaevo-Cherkessia,Северо-Кавказский,UTC+3,RU.27,552927,Karachayevo-Cherkesiya Republic,465669,199703,265966
+RU-KR,Карелия,Респ,Респ Карелия,Republic of Karelia,Северо-Западный,UTC+3,RU.28,552548,Karelia,614628,498156,116472
+RU-KO,Коми,Респ,Респ Коми,Komi republic,Северо-Западный,UTC+3,RU.34,545854,Komi,820171,641442,178729
+UA-43,Крым,Респ,Респ Крым,Republic of Crimea,Южный,UTC+3,UA.11,703883,Crimea,1912025,974739,937286
+RU-ME,Марий Эл,Респ,Респ Марий Эл,Republic of Mariy El,Приволжский,UTC+3,RU.45,529352,Mariy-El Republic,679094,455179,223915
+RU-MO,Мордовия,Респ,Респ Мордовия,Republic of Mordovia,Приволжский,UTC+3,RU.46,525369,Mordoviya Republic,790829,504905,285924
+RU-SA,Саха /Якутия/,Респ,Респ Саха /Якутия/,Saha republic,Дальневосточный,UTC+9,RU.63,2013162,Sakha,970105,640897,329208
+RU-SE,Северная Осетия - Алания,Респ,Респ Северная Осетия - Алания,Republic of North Osetia - Alania,Северо-Кавказский,UTC+3,RU.68,519969,North Ossetia,697064,448320,248744
+RU-TA,Татарстан,Респ,Респ Татарстан,Republic of Tatarstan,Приволжский,UTC+3,RU.73,484048,Tatarstan Republic,3902642,3001688,900954
+RU-TY,Тыва,Респ,Респ Тыва,Republic of Tyva,Сибирский,UTC+7,RU.79,1488873,Republic of Tyva,327388,177665,149723
+RU-UD,Удмуртская,Респ,Респ Удмуртская,Republic of Udmurtia,Приволжский,UTC+4,RU.80,479613,Udmurtiya Republic,1501005,992330,508675
+RU-KK,Хакасия,Респ,Респ Хакасия,Republic of Hakassia,Сибирский,UTC+7,RU.31,1503834,Khakasiya Republic,534186,372955,161231
+RU-CE,Чеченская,Респ,Респ Чеченская,Chechen republic,Северо-Кавказский,UTC+3,RU.12,569665,Chechnya,1476752,544760,931992
+RU-ROS,Ростовская,обл,Ростовская обл,Rostov oblast,Южный,UTC+3,RU.61,501165,Rostov,4195327,2860931,1334396
+RU-RYA,Рязанская,обл,Рязанская обл,Ryazan oblast,Центральный,UTC+3,RU.62,500059,Ryazan Oblast,1108924,800800,308124
+RU-SAM,Самарская,обл,Самарская обл,Samara oblast,Приволжский,UTC+4,RU.65,499068,Samara Oblast,3179026,2537265,641761
+RU-SAR,Саратовская,обл,Саратовская обл,Saratov oblast,Приволжский,UTC+4,RU.67,498671,Saratovskaya Oblast,2421785,1830957,590828
+RU-SAK,Сахалинская,обл,Сахалинская обл,Sakhalin oblast,Дальневосточный,UTC+11,RU.64,2121529,Sakhalin Oblast,488453,402271,86182
+RU-SVE,Свердловская,обл,Свердловская обл,Sverdlov oblast,Уральский,UTC+5,RU.71,1490542,Sverdlovsk,4310861,3664833,646028
+RU-SMO,Смоленская,обл,Смоленская обл,Smolensk oblast,Центральный,UTC+3,RU.69,491684,Smolensk,934747,671445,263302
+RU-STA,Ставропольский,край,Ставропольский край,Stavropolskiy kray,Северо-Кавказский,UTC+3,RU.70,487839,Stavropol Kray,2803021,1655987,1147034
+RU-TAM,Тамбовская,обл,Тамбовская обл,Tambov oblast,Центральный,UTC+3,RU.72,484638,Tambov,1006962,618169,388793
+RU-TVE,Тверская,обл,Тверская обл,Tver oblast,Центральный,UTC+3,RU.77,480041,Tver Oblast,1260345,959753,300592
+RU-TOM,Томская,обл,Томская обл,Tomsk oblast,Сибирский,UTC+7,RU.75,1489421,Tomsk Oblast,1079051,781262,297789
+RU-TUL,Тульская,обл,Тульская обл,Tula oblast,Центральный,UTC+3,RU.76,480508,Tula,1466025,1096891,369134
+RU-TYU,Тюменская,обл,Тюменская обл,Tumen oblast,Уральский,UTC+5,RU.78,1488747,Tyumen Oblast,3755778,3042591,713187
+RU-ULY,Ульяновская,обл,Ульяновская обл,Ulianovsk oblast,Приволжский,UTC+4,RU.81,479119,Ulyanovsk,1229687,932510,297177
+RU-KHA,Хабаровский,край,Хабаровский край,Habarovskiy kray,Дальневосточный,UTC+10,RU.30,2022888,Khabarovsk,1315310,1079726,235584
+RU-KHM,Ханты-Мансийский Автономный округ - Югра,АО,Ханты-Мансийский Автономный округ - Югра,Hanty-Mansiyskiy AO,Уральский,UTC+5,RU.32,1503773,Khanty-Mansia,1674086,1548527,125559
+RU-CHE,Челябинская,обл,Челябинская обл,Cheliabinsk oblast,Уральский,UTC+5,RU.13,1508290,Chelyabinsk,3466960,2865000,601960
+RU-CU,Чувашская Республика -,Чувашия,Чувашская Республика - Чувашия,Republic of Chuvashia,Приволжский,UTC+3,RU.16,567395,Chuvashia,1217820,772101,445719
+RU-CHU,Чукотский,АО,Чукотский АО,,Дальневосточный,UTC+12,RU.15,2126099,Chukotka,50726,36273,14453
+RU-YAN,Ямало-Ненецкий,АО,Ямало-Ненецкий АО,Yamalo-Nenetskiy AO,Уральский,UTC+5,RU.87,1486462,Yamalo-Nenets,544008,456604,87404
+RU-YAR,Ярославская,обл,Ярославская обл,Yaroslavl oblast,Центральный,UTC+3,RU.88,468898,Jaroslavl,1253189,1022434,230755
