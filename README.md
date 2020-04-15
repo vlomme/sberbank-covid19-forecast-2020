@@ -4,20 +4,15 @@
 ## covid_simple.ipynb
 - Обработка данных
 - Добавление новых фич
-- Линейная регрессия
-- Adaboost Regressor
-- Случайный лес
-- Xgboost
-
-**UPD**
-- Новые фичи
+- Модели (Линейная регрессия, Adaboost Regressor, Случайный лес, Xgboost, SGDRegressor)
 - Оценка ошибки MALE
 - Сравнение моделей
 - Графики
-- Добавление своей модели
 - Создание submission
+**UPD 15.04.2020**
+- Добавил регионы России
+- Добавил Нейронные сети (sklearn, keras, pytorch)
+- Добавил Бустинг (catboost, Lightgbm)
 
-## covid_kaggle.ipynb
-kaggle версия https://www.kaggle.com/c/covid19-global-forecasting-week-3
 ![Графики](https://github.com/vlomme/sberbank-covid19-forecast-2020/blob/master/1.jpg)
 ![Графики](https://github.com/vlomme/sberbank-covid19-forecast-2020/blob/master/2.jpg)
