@@ -4,3 +4,4 @@
 - Информация о здравохранении [2.12_Health_systems.csv](https://www.kaggle.com/danevans/world-bank-wdi-212-health-systems)
 - Распределение населения по возрасту [WorldPopulationByAge2020.csv]()
 - Данные о курящих [share-of-adults-who-smoke.csv](https://www.kaggle.com/osciiart/smokingstats)
+- Данные по России [covid19-russia-cases.csv](https://www.kaggle.com/kapral42/covid19-russia-regions-cases/)
