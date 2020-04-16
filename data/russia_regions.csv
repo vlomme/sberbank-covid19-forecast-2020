@@ -31,7 +31,7 @@
 29,RU-MAG,Магаданская,обл,Магаданская обл,Magadan oblast,Дальневосточный,UTC+11,RU.44,2123627,Magadan Oblast,140199,134720,5479,Magadan Region
 30,RU-MOS,Московская,обл,Московская обл,Moscow oblast,Центральный,UTC+3,RU.47,524925,Moscow Oblast,7687647,6255436,1432211,Moscow region
 31,RU-MUR,Мурманская,обл,Мурманская обл,Murmansk oblast,Северо-Западный,UTC+3,RU.49,524304,Murmansk,741511,683463,58048,Murmansk region
-32,RU-NEN,Ненецкий,АО,Ненецкий АО,Nenets Autonomous Okrug,Северо-Западный,UTC+3,RU.50,522652,Nenets,44110,32542,11568,Nenets Autonomous Okrug
+32,RU-NEN,Ненецкий,АО,Ненецкий АО,Nenetskiy autonomous oblast,Северо-Западный,UTC+3,RU.50,522652,Nenets,44110,32542,11568,Nenets Autonomous Okrug
 33,RU-NIZ,Нижегородская,обл,Нижегородская обл,Nizhegorodskaya oblast,Приволжский,UTC+3,RU.51,559838,Nizhny Novgorod Oblast,3203818,2553182,650636,Nizhny Novgorod Region
 34,RU-NGR,Новгородская,обл,Новгородская обл,Novgorod oblast,Северо-Западный,UTC+3,RU.52,519324,Novgorod Oblast,596173,426224,169949,Novgorod region
 35,RU-NVS,Новосибирская,обл,Новосибирская обл,Novosibirsk oblast,Сибирский,UTC+7,RU.53,1496745,Novosibirsk Oblast,2798251,2216509,581742,Novosibirsk region
@@ -81,6 +81,6 @@
 79,RU-KHM,Ханты-Мансийский Автономный округ - Югра,АО,Ханты-Мансийский Автономный округ - Югра,Hanty-Mansiyskiy AO,Уральский,UTC+5,RU.32,1503773,Khanty-Mansia,1674086,1548527,125559,Khanty-Mansiysk
 80,RU-CHE,Челябинская,обл,Челябинская обл,Cheliabinsk oblast,Уральский,UTC+5,RU.13,1508290,Chelyabinsk,3466960,2865000,601960,Chelyabinsk region
 81,RU-CU,Чувашская Республика -,Чувашия,Чувашская Республика - Чувашия,Republic of Chuvashia,Приволжский,UTC+3,RU.16,567395,Chuvashia,1217820,772101,445719,Chuvash Republic
-82,RU-CHU,Чукотский,АО,Чукотский АО,Chukotka Autonomous Okrug,Дальневосточный,UTC+12,RU.15,2126099,Chukotka,50726,36273,14453,Chukotka Autonomous Okrug
+82,RU-CHU,Чукотский,АО,Чукотский АО,Chukotskiy autonomous oblast,Дальневосточный,UTC+12,RU.15,2126099,Chukotka,50726,36273,14453,Chukotka Autonomous Okrug
 83,RU-YAN,Ямало-Ненецкий,АО,Ямало-Ненецкий АО,Yamalo-Nenetskiy AO,Уральский,UTC+5,RU.87,1486462,Yamalo-Nenets,544008,456604,87404,Yamalo-Nenets Autonomous Okrug
 84,RU-YAR,Ярославская,обл,Ярославская обл,Yaroslavl oblast,Центральный,UTC+3,RU.88,468898,Jaroslavl,1253189,1022434,230755,Yaroslavl region
