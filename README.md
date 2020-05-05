@@ -15,6 +15,7 @@
 - Семь моделей на каждый день(завтра, послезавтра и тд)
 
 
-![Графики](https://github.com/vlomme/sberbank-covid19-forecast-2020/blob/master/1.jpg)
-![Графики](https://github.com/vlomme/sberbank-covid19-forecast-2020/blob/master/3.jpg)
-![Графики](https://github.com/vlomme/sberbank-covid19-forecast-2020/blob/master/2.jpg)
+![Графики](https://github.com/vlomme/sberbank-covid19-forecast-2020/blob/master/img/1.jpg)
+![Графики](https://github.com/vlomme/sberbank-covid19-forecast-2020/blob/master/img/4.jpg)
+![Графики](https://github.com/vlomme/sberbank-covid19-forecast-2020/blob/master/img/3.jpg)
+![Графики](https://github.com/vlomme/sberbank-covid19-forecast-2020/blob/master/img/2.jpg)
