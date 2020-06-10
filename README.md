@@ -1,6 +1,8 @@
 # sberbank-covid19-forecast-2020
 Моё решение соревнования прогнозирования [covid19](https://ods.ai/competitions/sberbank-covid19-forecast)
 
+Лучшее публичное решение. Лучшее решение в 1 туре, 4 место во втором
+
 Интервью про модель [nplus1](https://nplus1.ru/blog/2020/04/29/black-box-wanga)
 
 [![Интервью](https://img.youtube.com/vi/wYDMYt135no/0.jpg)](https://www.youtube.com/watch?v=wYDMYt135no)
