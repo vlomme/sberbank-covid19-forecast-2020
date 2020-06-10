@@ -2,6 +2,9 @@
 Моё решение соревнования прогнозирования [covid19](https://ods.ai/competitions/sberbank-covid19-forecast)
 
 Интервью про модель [nplus1](https://nplus1.ru/blog/2020/04/29/black-box-wanga)
+
+[![Интервью](https://img.youtube.com/vi/wYDMYt135no/0.jpg)](https://www.youtube.com/watch?v=wYDMYt135no)
+
 ## covid_simple.ipynb
 - Прогноз для мира, регионов России и Америки
 - Каждый день предсказывается последовательно 
